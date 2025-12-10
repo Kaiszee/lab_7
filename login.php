@@ -33,7 +33,7 @@
             <input type="text" name="matric" id="matric" required><br>
             <label for="password">Password:</label>
             <input type="password" name="password" id="password" required><br>
-            <input type="submit" name="submit" value="Submit">
+            <input type="submit" name="submit" value="Login">
         </form>
         <p>Don't have an account? <a href="register_form.php">Register here</a></p>
     </div>
